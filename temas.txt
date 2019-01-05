@@ -1,0 +1,10 @@
+Temas puntuales de la seccion 6 
+
+Aplicacion del clima.
+Consumo de APIs
+Llamadas HTTP hacia servidores externos
+Paquete request
+Paquete Axios
+Uso de Google services para obtener lugares
+Uso de OpenWeather para obtener el clima
+Respaldos locales y remotos mediante

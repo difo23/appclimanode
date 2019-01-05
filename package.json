@@ -1,0 +1,20 @@
+{
+  "name": "appclima",
+  "version": "1.0.0",
+  "description": "Aplicacion del clima para conceptos de Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clima",
+    "resquest",
+    "response"
+  ],
+  "author": "Lizandro Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.5"
+  }
+}
